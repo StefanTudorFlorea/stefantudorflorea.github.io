@@ -1,6 +1,16 @@
-<center><h1>Stefan-Tudor Florea</h1></center>
-<p style="text-align:center;"> SENIOR SOFTWARE DEVELOPER</p>
-<p style="text-align:center;">Munich, Germany | stefanflorea.tudor@gmail.com | +49 176 72304880 </p>
+<table style="width:100%; border: none;">
+<tr>
+<td style="width: 15%; vertical-align: top;">
+  <img src="images/profile.jpeg" alt="Stefan-Tudor Florea" style="border-radius: 50%; width: 120px;">
+</td>
+<td style="vertical-align: top;">
+  <center><h1>Stefan-Tudor Florea</h1></center>
+  <p style="text-align:center;"> SENIOR SOFTWARE DEVELOPER</p>
+  <p style="text-align:center;">Munich, Germany | stefanflorea.tudor@gmail.com | +49 176 72304880 </p>
+</td>
+</tr>
+</table>
+
 
 # Experience
 
