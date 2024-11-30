@@ -1,22 +1,2 @@
-# Site settings
-title: Your Site Title
-description: A description of your site
-author: Your Name
-email: your_email@example.com
-
-# Markdown support
-markdown: kramdown
-
-# Theme settings
 theme: minima
-
-# Permalink settings
-permalink: pretty
-
-# Plugins (optional, supported on GitHub Pages)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Other settings
-paginate: 5
+markdown: kramdown
