@@ -44,31 +44,33 @@ content:
 
       # rooom
       - layout: left
-        title: rooom AG
+        title: Sr. Software Developer
+        sub_title: rooom AG
         link: rooom.com
-        sub_title: Senior Software Developer
         caption: February 2022 - August 2024
         description: | 
             - Migrated on-prem services to a serverless AWS architecture, automating workflows to improve deployment speed, maintainability, and cost efficiency
             - Implemented an observability stack for system monitoring and performance tracking
             - Established CI/CD pipelines, automating deployment, testing, and integration across multiple services
             - Developed and automated a security tool, generating daily reports on vulnerabilities, exposed ports, and missing certificates
-            - Tech stack: <mark>AWS: Lambda, ECS, ECR, Fargate, R53, ElasticBeanstalk</mark>, <mark>python</mark>
+            - Tech stack: <mark>todo</mark>
       
       # vr-on
       - layout: left
-        title: vr-on GmbH
-        sub_title: Senior Software Developer
+        title: Sr. Software Developer
+        sub_title: vr-on GmbH
+        link: vr-on.com
         caption: July 2016 - January 2022
         description: | 
           - Led the development and architecture of rooomStage, managing the full lifecycle of the desktop client across multiple platforms, improving performance and user experience
           - Built and optimized AWS backend infrastructure for high availability and scalability, transitioning monolithic systems to scalable services
           - Developed VR and networking apps for Unreal Engine 4, creating plugins for integration, enabling live presentations, and using cloud technologies for secure CAD data streaming
           - Mentored team members and delivered technical presentations to support knowledge sharing
+          - Tech stack: <mark>todo</mark>
 
       # rtt
       - layout: left
-        title: Senior Software Developer
+        title: Software Developer
         sub_title: Dassault Systèmes 3DEXCITE
         link: www.3ds.com/products/3dexcite
         caption: May 2014 - Jun 2016
@@ -77,7 +79,30 @@ content:
           - Designed and implemented a multi-purpose UI and integrated AR tracking (Metaio) to enhance user interaction
           - Expanded DELTAGEN’s device architecture to support new technologies, including finger tracking, eye tracking, and Oculus Rift
           - Migrated internal projects to Jenkins for CI, standardized builds with CMake, and implemented C++ dependency managers
-          - Presented innovations in real-time physics and passenger experience at Dassault Systèmes' World Sales Conference 
+          - Presented innovations in real-time physics and passenger experience at Dassault Systèmes' World Sales Conference
+          - Tech stack: <mark>todo</mark>
+
+      # johnson
+      - layout: left
+        title: Software Developer
+        sub_title: Johnson Controls Automotive Electronics GmbH
+        link: johnsoncontrols.de
+        caption: May 2013 - Apr 2014
+        description: |
+          - Developed and implemented an automated testing tool integrated into the build server infrastructure, featuring a user-friendly interface
+          - Created unit tests, test functionalities, and scenarios, ensuring their integration into the Finao system and the CI/CD pipeline
+          - Tech stack: <mark>todo</mark>
+
+      # aera
+      - layout: left
+        title: Software Developer
+        sub_title: AERA Consulting & Engineering GmbH
+        link: aeragmbh.de
+        caption: Aug 2011 - Apr 2013
+        description: |
+          - Developed frameworks and an SDK for ZIM Smart Building automation, enhancing energy efficiency and control capabilities
+          - Built dynamic UIs and interactive systems for Mercedes Adaptive Light Systems (IAA 2013) and Europa Park (currently running)
+          - Created a desktop app with image processing algorithms to detect air filter defects, automating and reducing manual inspection costs
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
