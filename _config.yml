@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark>, <mark>C++</mark>, <mark>distributed systems</mark> and <mark>board games</mark>
 
 content:
-  - title: Professional Experience # Title for the section
+  - title: Professional Experience
     layout: list
     content:
       - layout: left
