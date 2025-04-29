@@ -21,7 +21,7 @@ xing_username: StefanTudor_Florea2
 # Additional icon links
 additional_links:
 - title: Download cv
-  icon: fas circle-down
+  icon: fas fa-circle-down
   url: https://www.itsgoingto.be
 
 # About Section
@@ -51,7 +51,7 @@ content:
             - Implemented an observability stack for system monitoring and performance tracking
             - Established CI/CD pipelines, automating deployment, testing, and integration across multiple services
             - Developed and automated a security tool, generating daily reports on vulnerabilities, exposed ports, and missing certificates
-            - Tech stack: <mark>AWS<mark>, <mark>python</mark>
+            - Tech stack: <mark>AWS</mark>, <mark>python</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
