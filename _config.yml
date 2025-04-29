@@ -42,7 +42,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: The Boring Company
+        title: rooom AG
         link: rooom.com
         sub_title: Senior Software Developer
         caption: February 2022 - August 2024
@@ -51,6 +51,7 @@ content:
             - Implemented an observability stack for system monitoring and performance tracking
             - Established CI/CD pipelines, automating deployment, testing, and integration across multiple services
             - Developed and automated a security tool, generating daily reports on vulnerabilities, exposed ports, and missing certificates
+            - Tech stack: <mark>AWS<mark>, <mark>python</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
