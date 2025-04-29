@@ -6,37 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Stefan Florea
+title: Senior Software Developer
+email: contact@stefanflorea.info
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username:  StefanTudorFlorea
+linkedin_username: stefan-florea
+xing_username: StefanTudor_Florea2
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
+- title: Download cv
+  icon: fas circle-down
   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,9 +34,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I’m Stefan Florea, a Senior Software Developer with over a decade of experience building scalable backend systems and serverless architectures, mostly in C++ and AWS (because someone has to enjoy memory management and IAM policies). 
+  I focus on automating security workflows, streamlining CI/CD, and making backend infrastructure not only robust, but borderline enjoyable to maintain.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Outside of writing code, I enjoy solo motorbike trips through Southeast Asia, because debugging life in remote villages builds character (and GPS skills). 
+  I’m also an avid board gamer, with a soft spot for games so complex they come with a legal disclaimer. 
+  When I’m not playing or traveling, I’m probably hacking together a side project—anything from indie game prototypes to security tools no one asked for but everyone needs.
+
+  I am most skilled in: <mark>AWS</mark>, <mark>C++</mark>, <mark>distributed systems</mark> and <mark>board games</mark>
 
 content:
   - title: Projects # Title for the section
